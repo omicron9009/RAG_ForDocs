@@ -1,0 +1,140 @@
+{
+  "title": "The Rise of Multimodal AI: Unifying Vision and Language 1. Introduction 2. What is Multimodal AI? 3. Core Architecture of MLLMs 4. Applications of Multimodal AI 5. Challenges in Multimodal Learning 6. Future Directions 7. Conclusion",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "language, and context seamlessly.",
+      "page": 0
+    },
+    {
+      "level": "H1",
+      "text": "unified framework.",
+      "page": 0
+    },
+    {
+      "level": "H1",
+      "text": "sources, such as:",
+      "page": 0
+    },
+    {
+      "level": "H1",
+      "text": "Images",
+      "page": 0
+    },
+    {
+      "level": "H1",
+      "text": "bridges this gap by creating joint representations that allow reasoning across inputs.",
+      "page": 0
+    },
+    {
+      "level": "H1",
+      "text": "question about it — just like a human.",
+      "page": 0
+    },
+    {
+      "level": "H1",
+      "text": "The typical architecture of an MLLM involves the following components:",
+      "page": 0
+    },
+    {
+      "level": "H1",
+      "text": "a. Visual Encoder",
+      "page": 0
+    },
+    {
+      "level": "H1",
+      "text": "Converts image data into embeddings. Commonly uses CLIP, ViT, or ResNet.",
+      "page": 0
+    },
+    {
+      "level": "H1",
+      "text": "b. Text Encoder / Decoder",
+      "page": 0
+    },
+    {
+      "level": "H1",
+      "text": "Converts text into contextual embeddings. Often based on GPT, BERT, or LLaMA.",
+      "page": 0
+    },
+    {
+      "level": "H1",
+      "text": "c. Fusion Module",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "attention-based.",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "d. Unified Decoder",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Generates output tokens (answers, captions, summaries) autoregressively.",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "depth.",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Multimodal systems are now at the core of many real-world applications:",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Image Captioning: Automatically describing the contents of a picture.",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Despite their promise, MLLMs face several challenges:",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "concern, especially in high-stakes domains.",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "The future of multimodal AI is moving toward even more unified models:",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "audio, video).",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Instruction Tuning: Training models to follow human-like commands across tasks.",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "language, about any modality.",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "democratize this powerful AI class.",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "world in human-like ways — observing, reasoning, and responding across sensory inputs.",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "autonomous agents.",
+      "page": 2
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+pdfminer.six
+numpy
+pandas
+sentence-transformers
+torch
