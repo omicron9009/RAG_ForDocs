@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "challenge_id": "round_1b_003",
+    "test_case_name": "create_manageable_forms",
+    "description": "Creating manageable forms"
+  },
+  "extracted_sections": [
+    {
+      "score": 0.4315122545743989,
+      "pdf_name": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 1,
+      "chunk_index": 0,
+      "chunk_text": "Fill and Sign PDF Forms \nYou can easily fill, sign, and share your documents using Acrobat's Fill & Sign tool. Types \nof PDF forms"
+    },
+    {
+      "score": 0.3897875377668201,
+      "pdf_name": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 2,
+      "chunk_index": 0,
+      "chunk_text": "Types of PDF forms  \n• \nInteractive forms: These contain fields that you can select and fill in. \n• \nFlat forms: These do not have interactive fields. It could be a paper form or PDF that \nhasn’t been optimized for form filling. The Fill & Sign tool automatically detects the \nform fields like text fields, comb fields, checkboxes, and radio buttons. You can \nmanually add text and other symbols anywhere on the form using the Fill & Sign tool if \nrequired. \nYou can complete the forms by entering information and adding your signatures. Acrobat \nalso allows you to send your completed forms to others and securely save them in Adobe \ncloud storage. \n \nFill and sign PDF forms \nTo complete and sign PDF forms, open the form in Acrobat and then select E-Sign from the"
+    },
+    {
+      "score": 0.3850430024202026,
+      "pdf_name": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 8,
+      "chunk_index": 0,
+      "chunk_text": "Fill in PDF Forms \n \nIs the form fillable? \nNot all forms are fillable. Sometimes form creators don’t convert their PDFs to \ninteractive fillable forms. Or, they intentionally design a form that you can fill in only by hand \nor with the Fill & Sign tool. These non-interactive forms are called flat forms. \n \nFill in interactive forms \nAn interactive form contains fields that you can select or fill in. \n \n1. If necessary, select either the Hand Tool or the Select Tool from the context menu of \nthe page (right-click on the page to open the context menu). \n  \nThe pointer changes to a different icon as you move it over a field. For example, \nthe Hand \n tool changes to an I-beam  when you can type text into the form field."
+    },
+    {
+      "score": 0.4199404923422807,
+      "pdf_name": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 14,
+      "chunk_index": 0,
+      "chunk_text": "9. Prepare the Agreement and Add Fields: \nYou can now add any necessary fields to the agreement. Remember that \na Signature field must be placed for each signer (including internal counter-singers). \nThere are two methods to apply fields: \n1. Simple Authoring is loaded by default in most instances. Simple authoring: \n• \nIs limited to the most common types of fields: \n• \nText input (All Text fields are flagged as Required) \n• \nSignature \n• \nSigner's name (Printed) \n• \nSigner's email \n• \nSignature date (Read-Only; Supplied by the system) \n• \nCheckbox \n• \nPlaces fields anywhere you click on the document. \n• \nAllows resizing of fields by clicking the bottom right corner of the field (blue \ntriangle) and dragging the field to size."
+    },
+    {
+      "score": 0.4085608882761002,
+      "pdf_name": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 5,
+      "chunk_index": 0,
+      "chunk_text": "• \nSimplified mode for multiple signers \nThis mode provides simplified authoring with the capability of assigning fields to \nmultiple signers. When you select a signer from the right pane and add fields in the \nform, the fields are assigned to the signer. That means those fields will be available to \nthe signer for filling the information and signing the form."
+    },
+    {
+      "score": 0.3933152265558223,
+      "pdf_name": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 3,
+      "chunk_index": 0,
+      "chunk_text": "• \n(Optional) To explore advanced options including signer authentication, reminders, \nand more, click More Options. \n• \nTo add form fields and specify where to sign, click Specify where to sign. \nRequest signatures – Add Cc, subject, message, More Options \n• \nIf you don't want to use the More Options, skip the next optional step. \n4. (Optional) Click More Options, if you want to specify advanced options, such as signer \nauthentication, reminders, and more. \n• \nBy default, the Complete in Order setting is turned on. The numbers by the \nemail addresses reflect the participation order. If you do not want to follow any \nparticular order for signing, toggle the switch to Complete In Any Order."
+    },
+    {
+      "score": 0.29585539857999915,
+      "pdf_name": "Learn Acrobat - Generative AI_1.pdf",
+      "page_number": 5,
+      "chunk_index": 1,
+      "chunk_text": "• \nWhen you share your documents, textual prompts, and the generated responses with \nus when providing feedback, we take steps to filter out personal information by \napplying data masking procedures to this content (i.e., replacing personal information \nwith predefined categories using Named Entity Recognition, e.g., replacing “John \nSmith” with “PERSON”) prior to using the content for product improvement. \n• \nContent is stored for 30 days in an encrypted, siloed, Adobe-controlled environment \nwith strict access controls. You can always contact us via the form in our Privacy \nPolicy if you want us to delete this data sooner, or if you want to opt out of the use of \nyour content to improve generative AI capabilities in Acrobat and Acrobat Reader."
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "pdf_name": "Learn Acrobat - Fill and Sign.pdf",
+      "refined_text": "• How to create and manage fillable forms for onboarding and compliance.\n• Types of PDF forms and their fill and sign capabilities.\n• Automatic detection of form fields and manual filling and signing.\n• Security and saving completed forms in Adobe cloud storage.\n• Common mistakes to avoid when creating fillable forms.\n\n• How to convert non-interactive forms to fillable forms.\n• How to add text and symbols to PDF forms.\n• How to complete and sign PDF forms.\n\n• Common scenarios for flat forms.\n• How to automate the fill and sign process with Acrobat.\n• Common errors to avoid when using the Fill & Sign tool.\n\n• How to customize the Fill & Sign tool.\n\n• Common questions and answers.\n\n• Links to additional resources.\n\n• A summary of the material presented."
+    },
+    {
+      "pdf_name": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "The most relevant sections of the Agréement and Add Fields are:\n\n1. Simple Authoring: Simple Authoring is the default method that allows you to create \nfields and add them to the Agréement. This method is limited to the most common \ntypes of fields.\n\n2. Advanced options: To add form fields and specify where to sign, Agréement allows \naddition of Cc, subject, message, More Options. These options provide advanced \noptions that can be used to customize Agréement.\n\n3. Request signature: Agréement also allows you to add Cc, subject, message, More Options, \nand specify advanced options. If you don't want to follow the signer's order for signing, you can toggle the Complete in Any Order switch.\n\n4. Complete in Order: Agréement automatically sorts email addresses by the order they appear \nin the Agréement. If you don't want to follow the order, you can toggle the switch to Complete In Any Order.\n\n5. Agréement's most relevant sections: Agréement's most relevant sections are simple \nauthoring, advanced options, request signature, and complete in order. By default, Agréement \nallows you to specify the order of signers' emails. If you don't want to follow the \norder, you can toggle the switch to complete in any order.\n\n6. Agréement's features: Agréement offers several features like simple authoring, advanced \noptions, request signature, and complete in order. Agréement's most relevant sections are \nsimple authoring, advanced options, request signature, and complete in order.\n\n7. Agréement's responsibilities: Agréement provides different responsibilities like \nsigning, printing, and adding fields. Agréement's most relevant sections are simple \nauthoring, advanced options, request signature, and complete in order.\n\nBy following these sections and insights, you can understand Agréement in detail and create your Agréement in the most efficient way possible."
+    },
+    {
+      "pdf_name": "Learn Acrobat - Generative AI_1.pdf",
+      "refined_text": "1. \nHR professional:\n\nTask: Create and manage fillable forms for onboarding and compliance.\n\nContext:\n• \nWhen you share your documents, textual prompts, and the generated responses with \nus when providing feedback, we take steps to filter out personal information by \napplyng data masking procedures to this content (i.e., replacing personal information \nwith predefined categories using Named Entity Recognition, e.g., replacing “John \nSmith” with “PERSON”) prior to using the content for product improvement.\n• \nContent is stored for 30 days in an encrypted, siloeed, Adobe-controlled environment \nwith strict access controls. You can always contact us via the form in our Privacy \nPolicy if you want us to delete this data sooner, or if you want to opt out of the use of \nyour content to improve generative AI capabilities in Acrobat and Acrobat Readers.\n\n2.\n\nContent is stored for 30 days in an encrypted, siloeed, Adobe-controlled environment \nwith strict access controls. You can always contact us via the form in our Privacy \nPolicy if you want us to delete this data sooner, or if you want to opt out of the use of \nyour content to improve generative AI capabilities in Acrobat and Acrobat Readers.\n\nWhat are the next steps for implementing the proposed solution?\n\n1. \nHR professional:\n\nTask: Create and manage fillable forms for onboarding and compliance.\n\nContext:\n• \nWhen you share your documents, textual prompts, and the generated responses with \nus when providing feedback, we take steps to filter out personal information by \napplyng data masking procedures to this content (i.e., replacing personal information \nwith predefined categories using Named Entity Recognition, e.g., replacing “John \nSmith” with “PERSON”) prior to using the content for product improvement.\n• \nContent is stored for 30 days in an encrypted, siloeed, Adobe-controlled environment \nwith strict access controls. You can always contact us via the form in our Privacy \nPolicy if you want us to delete this data sooner, or if you want"
+    }
+  ]
+}
